@@ -18,6 +18,10 @@ body {
     position: relative;
 }
 
+.hidden {
+    display: none;
+}
+
 body::before {
     content: "";
     background-color: rgba(14, 13, 13, 0.9);
