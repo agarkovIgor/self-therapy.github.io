@@ -175,6 +175,7 @@ h1 {
    font-family: "Monomakh", serif;
    font-weight: 400;
    font-style: normal;
+   background-color: bisque;
    background-image: url(../img/notebook.jpg);
    background-size: cover;
    background-position: center;
