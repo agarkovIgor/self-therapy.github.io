@@ -261,7 +261,7 @@ h1 {
 }
 
 .main__text p,
-.main__text h3 {
+.main__text h2 {
     font-family: "Roboto";
 }
 
@@ -272,7 +272,7 @@ h1 {
     font-size: 1.2rem;
 }
 
-.main__text h3 {
+.main__text h2 {
     text-transform: uppercase;
     font-size: 1.2rem;
 }
