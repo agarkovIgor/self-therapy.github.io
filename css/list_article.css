@@ -257,12 +257,6 @@ ul {
    height: auto;
 }
 
-/* @media (hover: none) and (pointer: coarse) {
-   .item {
-      transform: none;
-   }
-} */
-
 @media screen and (max-width: 1100px) {
    * {
       font-size: 20px;

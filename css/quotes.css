@@ -168,8 +168,10 @@ h1 {
    grid-gap: 1rem;
    justify-content: center;
    background-color: rgba(30, 10, 247, 0.3);
+   /* position: relative; */
 }
-.quotes-wrapper .quotes-card {
+
+.quotes-card {
    display: flex;
    justify-content: center;
    font-family: "Monomakh", serif;
@@ -185,6 +187,16 @@ h1 {
    filter: sepia(100%);
    z-index: 1;
 }
+
+/* .active {
+   position: absolute;
+   left: 50%;
+   width: 20rem;
+   min-height: 15rem;
+   margin: 2rem;
+   z-index: 200;
+   transform: translateX(-50%); 
+} */
 
 .quotes-wrapper .item {
    display: flex;
