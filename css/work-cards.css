@@ -81,6 +81,7 @@ ul {
     visibility: hidden;
     opacity: 0;
     transition: all ease 0.6s;
+    overscroll-behavior: contain;
 }
 
 .modal .button-close-modal {
